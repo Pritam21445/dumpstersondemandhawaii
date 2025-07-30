@@ -1,0 +1,44 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma">I’m an empath, and I’m dealing with a very heavy cleanup (a fire, a flood). How do I protect my own energy during this process?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">This is the most important question. The dumpster is your container for the physical debris. You need a container for your own emotions. Work in short bursts. Take frequent breaks away from the site. Ground yourself. And remember that your only job is to do what you can, for as long as you can, and then rest. The dumpster will hold the rest.</p>
+                <h4 class="template4 palooma">Is the delivery of a huge dumpster going to be a traumatic, loud experience?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We are deeply sensitive to this. Our drivers are trained to be professionals who operate with a quiet efficiency. We see our role as bringing a calming, grounding tool to a chaotic situation, and our actions reflect that intention.</p>
+                <h4 class="template4 palooma">We’re a business. How can we keep our renovation discreet and not alarm our customers or neighbors?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We can work with you to schedule after-hours or weekend delivery and pickup. We can also consult on the most discreet placement location for the roll off dumpster container to minimize its visibility and impact on your daily operations.</p>
+                <h4 class="template4 palooma">What is the most important thing to know about disposing of fire-damaged materials?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Safety is paramount. Always wear protective gear (gloves, mask, sturdy shoes). Fire debris can contain hazardous materials from burnt plastics and chemicals. The dumpster is designed to contain this for safe transport, but you must protect yourself during the loading process.</p>
+                <div class="callalooma mx-auto"><a href="tel:820-218-6680">Click Here To Call Us (820) 218-6680</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
